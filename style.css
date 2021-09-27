@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 5pc 0pc;
+    background: radial-gradient(#1e7fa5,#8805,black) no-repeat fixed
+}
+button.remv{
+    background: #ff5722;
+    color:#fff
+}
+button.remv:hover{
+    background: rgb(170, 63, 63);
+}
+button{
+    padding: 10px;
+    border: none;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+
+    margin-top: 30px;
+    background: linear-gradient(rgb(145, 145, 109), #4a727e);
+    cursor: pointer;
+
+}
+button:hover {
+    background: linear-gradient(#4a727e,rgb(145, 145, 109) );
+}
+table{
+    background: black;
+
+    border: 6px solid black;
+    text-align: center;
+    padding-bottom: 0px;
+    border-radius: 10px;
+    margin-top: auto;
+}
+button.equal{
+    width: 88px;
+    background: #3d3464;
+    align-content: center;
+
+}
+
+input{
+    border-radius: 5px;
+    height: 20px;
+    text-align: right;
+    
+}
